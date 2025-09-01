@@ -2,7 +2,7 @@
 
 Hello there! 👋
 
-I'm a Software Engineering student at McMaster University 🏫 with a wide breadth of interests that I can't keep up with, including:
+I'm a Software Engineering student at McMaster University 🏫 with a wide breadth of interests (that I can't keep up with), including:
 
 ️🎨 Computer/3D Graphics
 
