@@ -16,8 +16,6 @@ I'm a Software Engineering student at McMaster University 🏫 with a wide bread
 
 🎛️ Signals and Control Systems
 
-⚡ Blazingly-fast applications
-
 ## Currently Developing
 
 ### [Blind Maze](https://github.com/rashrasa/blind-maze)
