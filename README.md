@@ -1,6 +1,6 @@
 # Ahmed Rashrash
 
-Hello there! 👋
+### Hello there! 👋
 
 I'm a Software Engineering student at McMaster University 🏫 with a wide breadth of interests (that I can't keep up with), including:
 
@@ -50,7 +50,7 @@ I currently work at Quasar Consulting Group as part of the Automation Team. I've
 
 ### What I've Helped Build
 
-An offline-first, full-stack (CRUD) app with Flutter + Supabase. I...
+### An offline-first, full-stack (CRUD) app with Flutter + Supabase. I...
 
 ![Static Badge](https://img.shields.io/badge/Flutter-RxDart%20%7C%20Riverpod-blue)
 ![Static Badge](https://img.shields.io/badge/Supabase-darkgreen)
@@ -59,7 +59,7 @@ An offline-first, full-stack (CRUD) app with Flutter + Supabase. I...
 
 - Implemented **Riverpod** state management to reduce frequent and unnecessary UI re-builds
 
-A Microsoft Word processing desktop app with C#, .NET 9.0, Word Interop and libraries like WinUI 3 and OpenXML. I designed and implemented...
+### A Microsoft Word processing desktop app with C#, .NET 9.0, Word Interop and libraries like WinUI 3 and OpenXML. I designed and implemented...
 
 ![Static Badge](https://img.shields.io/badge/C%23-darkgreen)
 ![Static Badge](https://img.shields.io/badge/.NET%209.0-darkgreen)
@@ -74,8 +74,23 @@ A Microsoft Word processing desktop app with C#, .NET 9.0, Word Interop and libr
 
 - User-friendly UI using the Model-View-ViewModel framework and libararies such as CommunityToolkit.MVVM
 
+### AI Experience
+
+I've used multiple coding agents at my current position and understand when they go from being a useful tool to a potential problem to a codebase. I've been able to catch multiple bugs, such as:
+
+- Inconsistent widget states (flutter) resulting from improper use of Riverpod providers
+- Duplicated sources of truth (and redundancy in general), and many more, before they were introduced to a codebase.
+
+I've had the best results come from Claude Opus and Sonnet inside of Claude Code.
+
 ## Github Analytics
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashrasa&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 Note: The Rust percentage may be over-exaggerated due to [my personal copy of the Rustlings exercises](https://github.com/rashrasa/rustlings).
+
+## AI Notice
+
+All commits on public, personal repositories are posted without the use of integrated AI coding agents, unless explicitly mentioned in the root README.md of the repository. No code is ever copy pasted from AI.
+
+I've used ChatGPT infrequently while working on my blind-maze project to figure out sources of bugs and errors. This is after spending much time throwing around print/log statements everywhere and pinpointing the lines of code where the issue is occurring (which is often enough on its own, without ChatGPT).
