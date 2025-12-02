@@ -58,7 +58,7 @@ I currently work at Quasar Consulting Group as part of the Automation Team. I've
 
 - Project-scoping, inspired by VS Code, where any user can open a project and be back where they (or someone else) left off
 
-- User-friendly UI using the Model-View-ViewModel framework and libararies such as CommunityToolkit.MVVM
+- User-friendly UI using the Model-View-ViewModel framework and libraries such as CommunityToolkit.MVVM
 
 ### AI Experience
 
