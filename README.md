@@ -38,15 +38,13 @@ I currently work at Quasar Consulting Group as part of the Automation Team. I've
 
 ### C# Desktop Application for Word Processing ![Static Badge](https://img.shields.io/badge/C%23-purple) ![Static Badge](https://img.shields.io/badge/.NET%209.0-purple) ![Static Badge](https://img.shields.io/badge/WinUI%203-blue) ![Static Badge](https://img.shields.io/badge/OpenXML-orange)
 
-- Multi-threading to speed up slow tasks like using Word interop to process documents.
+- Multi-threading to speed up slow tasks like using Word interop to process documents. Thread safety by using semaphores, locks, concurrency-safe collections.
 - Caching results of heavy calculations _(such as calculating page numbers which requires rendering the word document in the background)_ on Word documents that don't tend to change frequently to avoid doing unnecessary work
-- Thread safety by using semaphores, locks, concurrency-safe collections
 - Project-scoping, inspired by VS Code, where any user can open a project and be back where they (or someone else) left off
-- User-friendly UI using the Model-View-ViewModel framework and libraries such as CommunityToolkit.MVVM
 
 ### AI Experience
 
-I've used multiple coding agents at my current position and understand when they go from being a useful tool to a potential problem to a codebase. I've been able to catch multiple bugs, such as:
+I've used multiple coding agents and understand when they go from being a useful tool to a potential problem to a codebase. I've been able to prevent bugs that agents attempted to introduce, such as:
 
 - Inconsistent widget states (flutter) resulting from improper use of Riverpod providers
 - Duplicated sources of truth (and redundancy in general), and many more, before they were introduced to a codebase.
