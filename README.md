@@ -4,7 +4,7 @@
 
 ### Hello there!
 
-I'm a Software Engineering student at McMaster University 🏫 with a wide breadth of interests (that I can't keep up with), including:
+I'm a Software Engineering student at McMaster University with a wide breadth of interests, including:
 
 - ️🎨 3D Graphics
 - 🖥️ Backend Development
@@ -13,7 +13,7 @@ I'm a Software Engineering student at McMaster University 🏫 with a wide bread
 - 🏙️ Distributed Systems
 - 🎛️ Signals and Control Systems
 
-## Currently Developing
+## Personal Projects
 
 ### [Rover](https://github.com/rashrasa/rover)
 
@@ -23,6 +23,9 @@ A WebGPU + Rust native application meant for exploring graphics rendering and ph
 
 A server hosted over TCP which has in-memory JSON storage + persistence.
 
+### [Blind-Maze](https://github.com/rashrasa/blind-maze)
+
+Game allowing multiple connections to a dedicated, authoritative server written in Go through clients served through Next.js, with state synchronization, simple particles, and collisions.
 
 ## Current Position
 
