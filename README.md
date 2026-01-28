@@ -63,4 +63,4 @@ I've had the best results come from Claude Opus and Sonnet inside of Claude Code
 
 All commits on public, personal repositories are posted without the use of integrated AI coding agents, unless explicitly mentioned in the root README.md of the repository. No code is ever copy pasted from AI.
 
-I've used ChatGPT infrequently while working on my blind-maze project to figure out sources of bugs and errors. This is after spending much time throwing around print/log statements everywhere and pinpointing the lines of code where the issue is occurring (which is often enough on its own, without ChatGPT).
+I've used ChatGPT infrequently while working on multiple projects to identify sources of bugs and errors. This is after spending much time throwing around print/log statements everywhere and pinpointing the lines of code where the issue is occurring (which is often enough on its own).
