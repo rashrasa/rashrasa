@@ -25,7 +25,7 @@ A server hosted over TCP which has in-memory JSON storage + persistence.
 
 ### [Blind-Maze](https://github.com/rashrasa/blind-maze)
 
-Game allowing multiple connections to a dedicated, authoritative server written in Go through clients served through Next.js, with state synchronization, simple particles, and collisions.
+Game allowing multiple connections to a dedicated, authoritative server written in Go, serving clients using Next.js. Implemented state synchronization, simple particles, and collisions.
 
 ## Current Position
 
