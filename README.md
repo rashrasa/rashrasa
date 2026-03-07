@@ -15,9 +15,9 @@ I'm a Software Engineering student at McMaster University with a wide breadth of
 
 ## Personal Projects
 
-### [Rover](https://github.com/rashrasa/rover)
+### [Agate Engine](https://github.com/rashrasa/agate_engine)
 
-A WebGPU + Rust native application meant for exploring graphics rendering and physics.
+A game engine implemented in Rust using wgpu. Focused on being extensible, performant, and following best practices.
 
 ### [Mini-Redis](https://github.com/rashrasa/mini-redis-rs)
 
