@@ -9,7 +9,6 @@ I'm a Software Engineering student at McMaster University with a wide breadth of
 - ️🎨 3D Graphics
 - 🖥️ Backend Development
 - ⏳ Realtime Systems
-- 🛜 Networking Protocols
 - 🏙️ Distributed Systems
 - 🎛️ Signals and Control Systems
 
@@ -42,7 +41,7 @@ I currently work at Quasar Consulting Group as part of the Automation Team. I've
 ### C# Desktop Application for Word Processing ![Static Badge](https://img.shields.io/badge/C%23-purple) ![Static Badge](https://img.shields.io/badge/.NET%209.0-purple) ![Static Badge](https://img.shields.io/badge/WinUI%203-blue) ![Static Badge](https://img.shields.io/badge/OpenXML-orange)
 
 - Multi-threading to speed up slow tasks like using Word interop to process documents. Thread safety by using semaphores, locks, concurrency-safe collections.
-- Caching results of heavy calculations _(such as calculating page numbers which requires rendering the word document in the background)_ on Word documents that don't tend to change frequently to avoid doing unnecessary work
+- Caching results of heavy calculations _(such as calculating page numbers which requires rendering the word document in the background)_ on Word documents, for which the results don't tend to change frequently, to avoid doing unnecessary work
 - Project-scoping, inspired by VS Code, where any user can open a project and be back where they (or someone else) left off
 
 ### AI Experience
