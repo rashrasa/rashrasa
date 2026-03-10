@@ -16,7 +16,7 @@ I'm a Software Engineering student at McMaster University with a wide breadth of
 
 ### [Agate Engine](https://github.com/rashrasa/agate_engine)
 
-A game engine implemented in Rust using wgpu. Focused on being extensible, performant, and following best practices.
+My largest repository, it's a game engine implemented in Rust using wgpu. Focused on being extensible, performant, and following best practices.
 
 ### [Mini-Redis](https://github.com/rashrasa/mini-redis-rs)
 
