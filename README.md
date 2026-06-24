@@ -14,9 +14,9 @@ I'm a Software Engineering student at McMaster University with a wide breadth of
 
 ## Personal Projects
 
-### [Agate Engine](https://github.com/rashrasa/agate_engine)
+### [mpmc_rs](https://github.com/rashrasa/mpmc_rs)
 
-My largest repository, it's a game engine implemented in Rust using wgpu. Focused on being extensible, performant, and following best practices.
+An unbounded Multi-Producer, Multi-Consumer channel, a benchmarking engine, and a highly optimized aggregator. Implemented in Rust using different techniques. Benchmarked against `crossbeam`. 
 
 ### [Mini-Redis](https://github.com/rashrasa/mini-redis-rs)
 
