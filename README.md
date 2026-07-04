@@ -14,17 +14,17 @@ I'm a Software Engineering student at McMaster University with a wide breadth of
 
 ## Personal Projects
 
-### [mpmc_rs](https://github.com/rashrasa/mpmc_rs)
+### [Concurrent Queue](https://github.com/rashrasa/mpmc_rs)
 
 An unbounded Multi-Producer, Multi-Consumer channel, a benchmarking engine, and a highly optimized aggregator. Implemented in Rust using different techniques. Benchmarked against `crossbeam`. 
 
-### [Mini-Redis](https://github.com/rashrasa/mini-redis-rs)
+### [Gradient](https://github.com/rashrasa/gradient)
 
-A server hosted over TCP which has in-memory JSON storage + persistence.
+A NextJS-based learning platform for STEM topics. Created a simulation for decomposing audio signals into their frequency components using the Fast Fourier Transform (and its inverse). Created a WASM module in Rust for heavy computations. Implemented a Docker-based development environment with hot-rebuilds for the WASM module to complement NextJS's hot-reloads.
 
-### [Blind-Maze](https://github.com/rashrasa/blind-maze)
+### [Agate Engine](https://github.com/rashrasa/agate_engine)
 
-Game allowing multiple connections to a dedicated, authoritative server written in Go, serving clients using Next.js. Implemented state synchronization, simple particles, and collisions.
+Game engine implemented in Rust using WebGPU. Includes model and texture loading, a gravity system, world boundary, and a free camera. 
 
 ## Current Position
 
