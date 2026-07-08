@@ -18,13 +18,17 @@ I'm a Software Engineering student at McMaster University with a wide breadth of
 
 An unbounded Multi-Producer, Multi-Consumer channel, a benchmarking engine, and a highly optimized aggregator. Implemented in Rust using different techniques. Benchmarked against `crossbeam`. 
 
+### [Agate Engine](https://github.com/rashrasa/agate_engine)
+
+Game engine implemented in Rust using WebGPU. Includes model and texture loading, a gravity system, world boundary, and a free camera. 
+
+https://github.com/user-attachments/assets/645711d6-bb88-4bcd-bb98-247cc32211e9
+
 ### [Gradient](https://github.com/rashrasa/gradient)
 
 A NextJS-based learning platform for STEM topics. Created a simulation for decomposing audio signals into their frequency components using the Fast Fourier Transform (and its inverse). Created a WASM module in Rust for heavy computations. Implemented a Docker-based development environment with hot-rebuilds for the WASM module to complement NextJS's hot-reloads.
 
-### [Agate Engine](https://github.com/rashrasa/agate_engine)
-
-Game engine implemented in Rust using WebGPU. Includes model and texture loading, a gravity system, world boundary, and a free camera. 
+https://github.com/user-attachments/assets/3fc98ed4-b295-4f85-bc88-089534c0a463
 
 ## Current Position
 
