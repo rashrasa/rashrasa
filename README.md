@@ -30,6 +30,8 @@ https://github.com/user-attachments/assets/3fc98ed4-b295-4f85-bc88-089534c0a463
 
 An unbounded Multi-Producer, Multi-Consumer channel, a benchmarking engine, and a highly optimized aggregator. Implemented in Rust using different techniques. Benchmarked against `crossbeam`. 
 
+![](https://github.com/rashrasa/mpmc_rs/blob/main/bench/docs/assets/summary_scalability.jpg)
+
 ## Current Position
 
 I currently work at Quasar Consulting Group as part of the Automation Team. I've been working part-time during Fall/Winter terms and full-time in the Summer term since July 2024.
